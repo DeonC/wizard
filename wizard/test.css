@@ -1,0 +1,34 @@
+#wizkid{
+    padding-left:350px;
+    padding-right:250px;
+    padding-top:100px;
+      }
+
+      .wbtn1{
+
+    background-color:white;
+    color:rgb(2, 236, 2);
+    border-color:rgb(2, 236, 2);
+    border-width: 0.1ch;
+    border-radius: 10%
+      }
+
+      .wbtn2{
+
+        background-color:white;
+        color:rgb(2, 236, 2);
+        border-color:rgb(2, 236, 2);
+        border-width: 0.1ch;
+        border-radius:10%
+          }
+
+
+    .indata
+    {
+    background-color: rgba(65, 255, 17, 0.404);
+    border-radius: 0%;
+    }
+    #center{
+text-align:center;
+
+    }
